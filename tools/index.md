@@ -18,6 +18,9 @@ update: "tools/index.md"
 * [plovr](http://plovr.com/) Plovr is a build tool that dynamically recompiles JavaScript and Closure Template code. It is designed to simplify Closure development, and to make it more enjoyable.
 * [Closure Generator](https://github.com/closureplease/generator-closure#readme) Create a fully working Closure Library project in seconds! And you also get build tasks with livereload, 50+ BDD and TDD tests and a set of helper and boilerplate code to speed up your time to productive code.
 
+### Gradle Plugins
+* [silksmith](https://github.com/silksmith/silksmith) a gradle plugin that organizes closure package dependencies (closure sources, non closure js libs plus their externs), comes with a builtin development server similar to plovr, provides a test runner and compiles your sources in advanced mode per default
+
 ### Gulp Plugins
 
 [Gulp](gulpjs.com) is a task runner and build tool using streams and code-over-configuration for a simpler and more intuitive build for [Node.js](http://nodejs.org/). 
